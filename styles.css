@@ -68,7 +68,7 @@ footer {
 
 /* Estilo da logo no rodapé */
 .footer-logo img {
-    width: 300px; /* Ajuste o tamanho conforme necessário */
+    width: 290px; /* Ajuste o tamanho conforme necessário */
     height: auto;
 }
 
@@ -109,12 +109,12 @@ footer {
 
 /* Estilo das redes sociais */
 .footer-social a {
-    margin-left: 20px;
+    margin-left: 10px;
     display: inline-block;
 }
 
 .footer-social img {
-    width: 24px; /* Ajuste o tamanho conforme necessário */
+    width: 40px; /* Ajuste o tamanho conforme necessário */
     height: auto;
 }
 
